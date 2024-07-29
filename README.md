@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://lynaifr.github.io/Social-links-profile/#)
 
 ## My process
 
@@ -49,5 +49,5 @@ Learned about CSS reset and optimized code.
 Need to learn to code better and faster.
 
 ## Author
-
+- GitHub - [Lyna IFRAH](https://github.com/lynaIFR)
 - Frontend Mentor - [@lynaIFR](https://www.frontendmentor.io/profile/lynaIFR)
