@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-social-media-links-profile-Vj7Tupak2n)
 - Live Site URL: (https://lynaifr.github.io/Social-links-profile/#)
 
 ## My process
